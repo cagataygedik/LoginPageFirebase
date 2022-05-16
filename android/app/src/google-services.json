@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1032641810841",
+    "project_id": "loginpagewithfire",
+    "storage_bucket": "loginpagewithfire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032641810841:android:cf2d0b23a2dc5fe04e8308",
+        "android_client_info": {
+          "package_name": "com.example.login_page"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032641810841-cdl1pq19munqh7ov5nd3ca0kfgrqedlu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5maiGnKn-k2JjPGMvUpPbYkIvk_QdPng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032641810841-cdl1pq19munqh7ov5nd3ca0kfgrqedlu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
